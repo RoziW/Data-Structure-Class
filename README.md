@@ -24,7 +24,7 @@ In programming, **Data Structures** are those specific boxes.
 
 This project is built with performance and strict typing in mind.
 
-* **Core Language:** `C++ 20` (utilized for manual memory management and pointer manipulation).
+* **Core Language:** `java` (utilized for manual memory management and pointer manipulation).
 * **Build System:** `g++` (GNU Compiler Collection) for compilation.
 * **Debugger:** `GDB` (for stepping through logic and catching segmentation faults).
 * **Version Control:** `Git` (for tracking iterative improvements).
