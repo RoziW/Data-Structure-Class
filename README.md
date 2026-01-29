@@ -3,6 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Educational-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Hello]
 
 A curated collection of fundamental data structures and algorithms, implemented purely in **Java**. This repository serves as a code archive for understanding how computers organize, manage, and store data efficiently.
 
